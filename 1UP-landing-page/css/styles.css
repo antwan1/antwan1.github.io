@@ -231,6 +231,14 @@ hr{
 background-color: white;
 }
 h4{
-  text-align:center; 
+  text-align:center;
+
+}
+.picgame{
+
+  position: relative;
+    left: 25%;
+    width:50%;
+    border-radius: 50%;
 
 }
